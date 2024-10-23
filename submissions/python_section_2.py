@@ -143,8 +143,8 @@ def calculate_time_based_toll_rates(toll_rate_df: pd.DataFrame) -> pd.DataFrame:
 
 
 
-resu = calculate_time_based_toll_rates(toll_rate)
-print(resu)
+# resu = calculate_time_based_toll_rates(toll_rate)
+# print(resu)
 
-resu.to_csv("resu.csv")
+# resu.to_csv("resu.csv")
 
